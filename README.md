@@ -1,2 +1,6 @@
-# Python para análise de dados
-O repositório foi criado para registrar os primeiros comandos em Python para análise de dados utilizando Jupiter, esse conteúdo é registro do meu desenvolvimento na linguagem Python. 
+# Linguagem Python
+ O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).
+# Resumo 
+Esse repositório foi criado para regitrar comandos básicos de manipulação de dados e análise utilizando a linguagem Python. 
+# Objetivo
+Desenvolvimento e pratica utilizando Python
